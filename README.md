@@ -1,6 +1,6 @@
 # Hi, I'm Momin AlJafarawi
 
-**Online Marketing Manager · Performance Marketing · Paid Social · Google Ads**
+**Online Marketing Manager · Performance Marketing · Paid Social · Google Ads**  
 Hanover, Germany
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momin-aljafarawi-184b4b171/)
@@ -11,6 +11,15 @@ Online Marketing Manager with more than four years of experience in performance 
 | €20,000+ | 280+ | 900,000+ | -19% |
 |:---:|:---:|:---:|:---:|
 | ad spend managed | qualified leads | impressions | cost per lead |
+
+## Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Azan** (macOS)](https://github.com/MominAlJafarawi/Azan) | Arabic prayer times and adhan app in the menu bar. Pauses music during the adhan, silent spoken alerts during meetings, animated widget, Quran reading plan | Swift, SwiftUI |
+| [**Azan** (Windows)](https://github.com/MominAlJafarawi/Azan-Windows) | The same app for Windows 10 and 11, with media control integration and microphone detection | JavaScript, Electron |
+| [**Zakira**](https://github.com/MominAlJafarawi/zakira) | Your Mac's short-term memory: the last things you typed, copied and captured, one click away. Privacy first, no network code | Swift |
+| [**Rafiq al-Darb**](https://github.com/MominAlJafarawi/rafiq-aldarb) 🚧 | German course app for Arabic speakers (A1 to B2) with offline speech recognition, an offline German voice and a local AI teacher. *In development* | Swift, Electron, Python |
 
 ## Tech & Tools
 
@@ -44,10 +53,10 @@ Online Marketing Manager with more than four years of experience in performance 
 
 ## Experience
 
-**Online Marketing Manager** · PVPro Solar GmbH, Hanover · *02/2023 – present*
+**Online Marketing Manager** · PVPro Solar GmbH, Hanover · *02/2023 – present*  
 Meta Ads lead generation, campaign restructuring and creative testing, competitor analysis, brand identity, website maintenance and Core Web Vitals optimization, AI-assisted campaign analysis.
 
-**Freelance Online Marketing Manager** · Self-employed · *10/2023 – present*
+**Freelance Online Marketing Manager** · Self-employed · *10/2023 – present*  
 Clients in e-commerce, retail, healthcare and renewable energy in Germany, the USA and Palestine:
 - **Home Decor and 99 Cents Plus Bargains** (Hartford, USA): Meta messaging campaigns, carousel ads, Messenger reply funnels, A/B testing for English and Spanish audiences
 - **MZUNGU** (fashion online store): Facebook and Instagram presence, Meta messaging campaigns, order process via direct messages
@@ -56,18 +65,18 @@ Clients in e-commerce, retail, healthcare and renewable energy in Germany, the U
 - **Burg Apotheke Westerburg:** print materials, digital presence and website maintenance
 - **Amro Media, Lahnstein:** marketing consulting, website audits and speed optimization (caching, CDN, image compression)
 
-**Account Manager & Web Performance Analyst** · MG Digital Marketing · *08/2024 – 02/2025*
+**Account Manager & Web Performance Analyst** · MG Digital Marketing · *08/2024 – 02/2025*  
 Client accounts with responsibility for KPIs and ROI, technical website audits for load time and mobile optimization.
 
-**Sales Officer, Marketing & Web Development** · Jawwal · *02/2023 – 02/2024*
+**Sales Officer, Marketing & Web Development** · Jawwal · *02/2023 – 02/2024*  
 Campaign landing pages, internal web tools and web analytics to improve customer acquisition.
 
-**Flutter & Web Development Intern** · Unit One · *04/2021 – 05/2022*
+**Flutter & Web Development Intern** · Unit One · *04/2021 – 05/2022*  
 Mobile apps with Flutter and Dart and web applications.
 
 ## Education
 
-**Bachelor's Degree in Software Development** · Islamic University of Gaza · *2018 – 2022*
+**Bachelor's Degree in Software Development** · Islamic University of Gaza · *2018 – 2022*  
 Recognized by the ZAB (KMK, Germany) as equivalent to a German bachelor's degree.
 
 ## Certifications
